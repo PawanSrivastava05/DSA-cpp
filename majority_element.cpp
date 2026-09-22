@@ -23,7 +23,7 @@ int majorityElement(vector<int>& nums) {
         
     }}
     
-    return nums[0]; 
+       return nums[0]; 
 }
 
 
