@@ -18,7 +18,7 @@ int majorityElement(vector<int>& nums) {
         } else {
             freq = 1; 
         }
-        if (freq > n / 2) {
+        if (freq > n / 2) {   // target element
             return nums[i];
         
     }}
